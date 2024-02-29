@@ -20,7 +20,7 @@ To set up Txt2Img-Generation, follow these steps:
 
 3. Install all the required dependencies:
     ```bash
-    pip install -r requirement.txt
+    pip install -r requirements.txt
     ```
 
 ## Usage
